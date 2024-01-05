@@ -1,0 +1,10 @@
+name: test-capitole
+
+swagger:
+  title: test-capitole
+  description: test for capitole consulting
+  version: 1.0
+  contact:
+    name: Mario Meneses
+    email: mario.meneses.a@gmail.com
+  enable: true
